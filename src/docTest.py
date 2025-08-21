@@ -14,7 +14,7 @@ def about_me(your_name):
 
     Parameters
     ----------
-    your_name
+    your_name : str
         A string indicating the name of the person.
 
     """
